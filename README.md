@@ -3,6 +3,7 @@
 
 - PLACE 2 FILES-INCLUDE.F10 
 
-- IN FOLDERS :	* "C:\Windows\"
+- IN FOLDERS :	* "%UserProfile%\Desktop\"
+		* "C:\Windows\"
 		* "C:\Windows\System32\"
 		* "C:\Windows\SysWOW64\"
