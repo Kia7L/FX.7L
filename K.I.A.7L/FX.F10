@@ -1,6 +1,7 @@
 AA0=1110 ;Layers Monitor=4 
 AA1=1111 ;Layers ON=1 OFF=0
 (@*<FX.F10.F10>) 0 AA1
+(@*<FX.F10) 0 AA1
 #if @<==0;
 float @@>=100%<=@@;
 #endif
